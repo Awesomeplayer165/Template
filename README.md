@@ -46,6 +46,10 @@ if let readLine = readLine() {
 
 ```
 
+### Conclusion:
+
+Write a small conclusion for your repository
+
 ## Created and Maintained by:
 
 [Jacob Trentini](https://github.com/Awesomeplayer165)
